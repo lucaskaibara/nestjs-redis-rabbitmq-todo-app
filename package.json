@@ -1,8 +1,8 @@
 {
   "name": "nestjs-redis-rabbitmq-todo-app",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "API simples para criação e manipulação de uma lista de tarefas, criado para fins de estudo das tecnologias NestJS, Redis e RabbitMQ",
+  "author": "Lucas Kaibara",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
